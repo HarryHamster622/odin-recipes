@@ -1,0 +1,36 @@
+html {
+    background-color: white;
+}
+
+.description {
+    color: #AB87FF;
+    text-align: center;
+    font-size: 17px;
+}
+
+ul {
+    color: #34D1BF;
+}
+
+ol {
+    color: #34D1BF;
+}
+
+ol li {
+    margin: 12px;
+}
+
+img {
+    width: 100%;
+    height: auto;
+}
+
+body {
+    background-color: #423E3B;
+    color: #D38B5D;
+    margin: 20px;
+    border-color: #D38B5D;
+    border-style: solid;
+    padding: 10px;
+    border-width: 5px;
+}
