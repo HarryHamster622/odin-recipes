@@ -28,9 +28,10 @@ img {
 body {
     background-color: #423E3B;
     color: #D38B5D;
-    margin: 20px;
+    margin: 20px auto;
     border-color: #D38B5D;
     border-style: solid;
     padding: 10px;
     border-width: 5px;
+    width: 50%;
 }
